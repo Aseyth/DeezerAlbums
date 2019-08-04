@@ -1,0 +1,341 @@
+{
+  "id": 49201,
+  "title": "Groove Sessions",
+  "upc": "3760147761444",
+  "link": "http://www.deezer.com/album/49201",
+  "share": "https://www.deezer.com/album/49201?utm_source=deezer&utm_content=album-49201&utm_term=0_1564854999&utm_medium=web",
+  "cover": "http://api.deezer.com/2.0/album/49201/image",
+  "cover_small": "http://cdn-images.deezer.com/images/cover/f093d4a9d85f50e91b0ae6b2119a72ef/56x56-000000-80-0-0.jpg",
+  "cover_medium": "http://cdn-images.deezer.com/images/cover/f093d4a9d85f50e91b0ae6b2119a72ef/250x250-000000-80-0-0.jpg",
+  "cover_big": "http://cdn-images.deezer.com/images/cover/f093d4a9d85f50e91b0ae6b2119a72ef/500x500-000000-80-0-0.jpg",
+  "cover_xl": "http://cdn-images.deezer.com/images/cover/f093d4a9d85f50e91b0ae6b2119a72ef/1000x1000-000000-80-0-0.jpg",
+  "genre_id": 106,
+  "genres": {
+    "data": [
+      {
+        "id": 106,
+        "name": "Electro",
+        "picture": "http://api.deezer.com/2.0/genre/106/image",
+        "type": "genre"
+      },
+      {
+        "id": 107,
+        "name": "Chill Out/Trip-Hop/Lounge",
+        "picture": "http://api.deezer.com/2.0/genre/107/image",
+        "type": "genre"
+      }
+    ]
+  },
+  "label": "Chinese Man Records",
+  "nb_tracks": 12,
+  "duration": 3259,
+  "fans": 88814,
+  "rating": 0,
+  "release_date": "2010-10-08",
+  "record_type": "album",
+  "available": true,
+  "tracklist": "http://api.deezer.com/2.0/album/49201/tracks",
+  "explicit_lyrics": false,
+  "explicit_content_lyrics": 0,
+  "explicit_content_cover": 2,
+  "contributors": [
+    {
+      "id": 58801,
+      "name": "Chinese Man",
+      "link": "http://www.deezer.com/artist/58801",
+      "share": "https://www.deezer.com/artist/58801?utm_source=deezer&utm_content=artist-58801&utm_term=0_1564854999&utm_medium=web",
+      "picture": "http://api.deezer.com/2.0/artist/58801/image",
+      "picture_small": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/56x56-000000-80-0-0.jpg",
+      "picture_medium": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/250x250-000000-80-0-0.jpg",
+      "picture_big": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/500x500-000000-80-0-0.jpg",
+      "picture_xl": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/1000x1000-000000-80-0-0.jpg",
+      "radio": true,
+      "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+      "type": "artist",
+      "role": "Main"
+    },
+    {
+      "id": 1539518,
+      "name": "Bionic Man Sound",
+      "link": "http://www.deezer.com/artist/1539518",
+      "share": "https://www.deezer.com/artist/1539518?utm_source=deezer&utm_content=artist-1539518&utm_term=0_1564854999&utm_medium=web",
+      "picture": "http://api.deezer.com/2.0/artist/1539518/image",
+      "picture_small": "http://cdn-images.deezer.com/images/artist//56x56-000000-80-0-0.jpg",
+      "picture_medium": "http://cdn-images.deezer.com/images/artist//250x250-000000-80-0-0.jpg",
+      "picture_big": "http://cdn-images.deezer.com/images/artist//500x500-000000-80-0-0.jpg",
+      "picture_xl": "http://cdn-images.deezer.com/images/artist//1000x1000-000000-80-0-0.jpg",
+      "radio": false,
+      "tracklist": "http://api.deezer.com/2.0/artist/1539518/top?limit=50",
+      "type": "artist",
+      "role": "Featured"
+    }
+  ],
+  "artist": {
+    "id": 58801,
+    "name": "Chinese Man",
+    "picture": "http://api.deezer.com/2.0/artist/58801/image",
+    "picture_small": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/56x56-000000-80-0-0.jpg",
+    "picture_medium": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/250x250-000000-80-0-0.jpg",
+    "picture_big": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/500x500-000000-80-0-0.jpg",
+    "picture_xl": "http://cdn-images.deezer.com/images/artist/d3653b8d5608f93f8e190668d679bec4/1000x1000-000000-80-0-0.jpg",
+    "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+    "type": "artist"
+  },
+  "type": "album",
+  "tracks": {
+    "data": [
+      {
+        "id": 313635,
+        "readable": true,
+        "title": "Pandi Groove",
+        "title_short": "Pandi Groove",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313635",
+        "duration": 300,
+        "rank": 458513,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-2.deezer.com/stream/c-270f059f51b3da69cc45c0a0510f5bba-11.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313636,
+        "readable": true,
+        "title": "Searching for the space monkey",
+        "title_short": "Searching for the space monkey",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313636",
+        "duration": 293,
+        "rank": 430389,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-3.deezer.com/stream/c-3feec2091c790cdfc6336f50267f9513-11.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313637,
+        "readable": true,
+        "title": "Eight y cinco",
+        "title_short": "Eight y cinco",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313637",
+        "duration": 234,
+        "rank": 470343,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-e.deezer.com/stream/c-e9b945960f5bdc14f6e3557f416c4340-11.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313638,
+        "readable": true,
+        "title": "Bunni Groove",
+        "title_short": "Bunni Groove",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313638",
+        "duration": 265,
+        "rank": 427811,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-6.deezer.com/stream/c-6452bb611a04b1aa416ac9becb1b5aeb-11.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313639,
+        "readable": true,
+        "title": "Washington Square",
+        "title_short": "Washington Square",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313639",
+        "duration": 251,
+        "rank": 623504,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-c.deezer.com/stream/c-cd58a3a48192d853e41ad49823229795-10.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313640,
+        "readable": true,
+        "title": "I've got that tune",
+        "title_short": "I've got that tune",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313640",
+        "duration": 270,
+        "rank": 726154,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-3.deezer.com/stream/c-3439ada8ba22edc922112f5c37fb291c-10.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313641,
+        "readable": true,
+        "title": "You suck me",
+        "title_short": "You suck me",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313641",
+        "duration": 310,
+        "rank": 413431,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-7.deezer.com/stream/c-7caabe5b16efbd878a01239f8971c4ea-10.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313642,
+        "readable": true,
+        "title": "Indi Groove",
+        "title_short": "Indi Groove",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313642",
+        "duration": 283,
+        "rank": 454033,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-e.deezer.com/stream/c-e66a62b1791f39939287b62a575b4cec-12.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313643,
+        "readable": true,
+        "title": "Skank in the air",
+        "title_short": "Skank in the air",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313643",
+        "duration": 286,
+        "rank": 491401,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-0.deezer.com/stream/c-00d72e492f1dbeb6c4565f40c91e1b22-11.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313644,
+        "readable": true,
+        "title": "Artichaut",
+        "title_short": "Artichaut",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313644",
+        "duration": 267,
+        "rank": 538049,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-5.deezer.com/stream/c-58a9d650d01081f07dbd05bcb75eb061-1.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313645,
+        "readable": true,
+        "title": "More",
+        "title_short": "More",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313645",
+        "duration": 285,
+        "rank": 406736,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-3.deezer.com/stream/c-3d6013237daf5d89aef00b569cd8b35a-10.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 313646,
+        "readable": true,
+        "title": "Chinese man",
+        "title_short": "Chinese man",
+        "title_version": "",
+        "link": "http://www.deezer.com/track/313646",
+        "duration": 215,
+        "rank": 399295,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http://cdn-preview-b.deezer.com/stream/c-b056f5edc553e92f2251a38b7ffea352-10.mp3",
+        "artist": {
+          "id": 58801,
+          "name": "Chinese Man",
+          "tracklist": "http://api.deezer.com/2.0/artist/58801/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      }
+    ]
+  }
+}

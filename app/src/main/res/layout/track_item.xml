@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_marginStart="@dimen/margin"
+        android:layout_marginEnd="@dimen/margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+            android:id="@+id/trackTitle"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="18sp"
+            android:layout_width="0dp"
+            android:textColor="@color/colorPrimary"
+            android:layout_height="wrap_content"
+            tools:text="track title" android:fontFamily="@font/rubik_medium"/>
+
+    <TextView
+            android:id="@+id/trackArtist"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/trackTitle"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:textColor="@color/grey"
+            android:textSize="16sp"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="track artist"
+            android:layout_marginTop="9dp" android:fontFamily="@font/rubik"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
